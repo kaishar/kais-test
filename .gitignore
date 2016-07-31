@@ -4,5 +4,6 @@
 .*.haste_cache.*
 .DS_Store
 .idea
+.project
 npm-debug.log
 node_modules
